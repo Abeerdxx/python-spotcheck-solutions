@@ -1,1 +1,1 @@
-# python-spotcheck-solutions
+Solutions to Kernel Spot Checks
