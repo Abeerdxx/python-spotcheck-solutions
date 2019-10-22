@@ -28,6 +28,12 @@ print(closet["shirts"]["white"])
 print(closet["pants"]["shorts"]["flamingo-pink"])
 
 # 4.
+closet["pants"]["jeans"]["organic"] = 7
+
+# 5.
+closet["pants"]["jeans"]["denim"] -= 4
+
+# 6.
 pink_shorts = closet["pants"]["shorts"]["flamingo-pink"]
 pink_shirts = closet["shirts"]["flamingo-pink"]
 
