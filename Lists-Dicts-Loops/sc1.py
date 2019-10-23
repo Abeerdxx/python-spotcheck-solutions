@@ -1,4 +1,4 @@
-bagpack = {
+backpack = {
     "owner": "Dora",
     "base_weight": 1,
     "items": [
@@ -9,5 +9,10 @@ bagpack = {
     ]
 }
 
-# nothing but a normal dict-access
-bagpack["items"][2]["weight"] += 1
+items = backpack["items"]
+total_weight = 0
+for item in items:
+	weight = item["weight"]
+	total_weight += weight
+
+print(total_weight)
