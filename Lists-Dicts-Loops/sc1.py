@@ -9,10 +9,4 @@ backpack = {
     ]
 }
 
-items = backpack["items"]
-total_weight = 0
-for item in items:
-	weight = item["weight"]
-	total_weight += weight
-
-print(total_weight)
+backpack["items"][2]["weight"] += 1
