@@ -1,5 +1,5 @@
-import subprocess
+from subprocess import call
 
-subprocess.call(['git', 'add', '.'])
-subprocess.call(['git', 'commit', '-m', 'partial commit'])
-subprocess.call(['git', 'push', 'origin', 'master'])
+call(['git', 'add', '.'])
+call(['git', 'commit', '-m', 'partial commit'])
+call(['git', 'push', 'origin', 'master'])
