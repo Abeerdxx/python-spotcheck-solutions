@@ -1,0 +1,2252 @@
+[
+    {
+        "shift": {
+            "firstName": "Carlos",
+            "lastName": "Alex",
+            "date": "2016-11-24T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-27T17:53:10.000Z",
+            "location": "Playa El Toro",
+            "moonPhase": "First Quarter",
+            "tide": "low",
+            "comments": "Comment 1"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 246,
+                    "width": 78
+                },
+                "curve": {
+                    "length": 198,
+                    "width": 154
+                }
+            },
+            "species": "Dc",
+            "gender": "female",
+            "condition": {
+                "status": "alive",
+                "stage": 4
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-12-01T17:53:10.000Z",
+            "eggCount": 112,
+            "hatchEst": "2016-11-26T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": true
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Francesca",
+            "lastName": "Alex",
+            "date": "2016-12-01T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-12-02T17:53:10.000Z",
+            "location": "Playa Lagarto",
+            "moonPhase": "Full Moon",
+            "tide": "low-to-high",
+            "comments": "Comment 1"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 152,
+                    "width": 72
+                },
+                "curve": {
+                    "length": 375,
+                    "width": 134
+                }
+            },
+            "species": "Cm",
+            "gender": "female",
+            "condition": {
+                "status": "dead",
+                "stage": 4
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-11-24T17:53:10.000Z",
+            "eggCount": 92,
+            "hatchEst": "2016-12-01T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": false
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Dylan",
+            "lastName": "Erik",
+            "date": "2016-11-23T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-12-02T17:53:10.000Z",
+            "location": "Playa Lagarto",
+            "moonPhase": "Full Moon",
+            "tide": "low",
+            "comments": "Comment 5"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 210,
+                    "width": 70
+                },
+                "curve": {
+                    "length": 190,
+                    "width": 146
+                }
+            },
+            "species": "Cc",
+            "gender": "female",
+            "condition": {
+                "status": "dead",
+                "stage": 2
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-12-01T17:53:10.000Z",
+            "eggCount": 106,
+            "hatchEst": "2016-11-26T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": true
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Francesca",
+            "lastName": "Ben",
+            "date": "2016-11-23T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-22T17:53:10.000Z",
+            "location": "Playa El Toro",
+            "moonPhase": "New Moon",
+            "tide": "low-to-high",
+            "comments": "Comment 2"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 234,
+                    "width": 65
+                },
+                "curve": {
+                    "length": 257,
+                    "width": 96
+                }
+            },
+            "species": "Lo",
+            "gender": "male",
+            "condition": {
+                "status": "dead",
+                "stage": 4
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-12-02T17:53:10.000Z",
+            "eggCount": 102,
+            "hatchEst": "2016-11-24T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": true
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Alex",
+            "lastName": "Dylan",
+            "date": "2016-11-27T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-12-01T17:53:10.000Z",
+            "location": "Playa El Arenal",
+            "moonPhase": "Full Moon",
+            "tide": "high",
+            "comments": "Comment 2"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 275,
+                    "width": 63
+                },
+                "curve": {
+                    "length": 301,
+                    "width": 152
+                }
+            },
+            "species": "Dc",
+            "gender": "female",
+            "condition": {
+                "status": "alive",
+                "stage": 1
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-11-26T17:53:10.000Z",
+            "eggCount": 76,
+            "hatchEst": "2016-11-26T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": false
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Erik",
+            "lastName": "Alex",
+            "date": "2016-11-23T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-26T17:53:10.000Z",
+            "location": "Playa Lagarto",
+            "moonPhase": "Full Moon",
+            "tide": "high-to-low",
+            "comments": "Comment 4"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 261,
+                    "width": 68
+                },
+                "curve": {
+                    "length": 214,
+                    "width": 82
+                }
+            },
+            "species": "Ei",
+            "gender": "male",
+            "condition": {
+                "status": "alive",
+                "stage": 3
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-11-23T17:53:10.000Z",
+            "eggCount": 68,
+            "hatchEst": "2016-11-23T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": true
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Alex",
+            "lastName": "Ben",
+            "date": "2016-12-02T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-26T17:53:10.000Z",
+            "location": "Playa El Toro",
+            "moonPhase": "Full Moon",
+            "tide": "high-to-low",
+            "comments": "Comment 4"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 349,
+                    "width": 55
+                },
+                "curve": {
+                    "length": 230,
+                    "width": 139
+                }
+            },
+            "species": "Cc",
+            "gender": "male",
+            "condition": {
+                "status": "alive",
+                "stage": 1
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-11-22T17:53:10.000Z",
+            "eggCount": 55,
+            "hatchEst": "2016-11-24T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": true
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Carlos",
+            "lastName": "Francesca",
+            "date": "2016-11-24T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-25T17:53:10.000Z",
+            "location": "Playa El Arenal",
+            "moonPhase": "Third Quarter",
+            "tide": "low-to-high",
+            "comments": "Comment 4"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 335,
+                    "width": 121
+                },
+                "curve": {
+                    "length": 159,
+                    "width": 69
+                }
+            },
+            "species": "Lo",
+            "gender": "male",
+            "condition": {
+                "status": "dead",
+                "stage": 3
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-11-25T17:53:10.000Z",
+            "eggCount": 134,
+            "hatchEst": "2016-12-02T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": true
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Carlos",
+            "lastName": "Erik",
+            "date": "2016-11-27T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-22T17:53:10.000Z",
+            "location": "Playa Lagarto",
+            "moonPhase": "Full Moon",
+            "tide": "high",
+            "comments": "Comment 3"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 255,
+                    "width": 92
+                },
+                "curve": {
+                    "length": 347,
+                    "width": 81
+                }
+            },
+            "species": "Ei",
+            "gender": "male",
+            "condition": {
+                "status": "dead",
+                "stage": 3
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-11-26T17:53:10.000Z",
+            "eggCount": 79,
+            "hatchEst": "2016-12-01T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": true
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Dylan",
+            "lastName": "Francesca",
+            "date": "2016-12-02T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-12-02T17:53:10.000Z",
+            "location": "Playa El Arenal",
+            "moonPhase": "Third Quarter",
+            "tide": "low-to-high",
+            "comments": "Comment 4"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 299,
+                    "width": 100
+                },
+                "curve": {
+                    "length": 299,
+                    "width": 126
+                }
+            },
+            "species": "Cc",
+            "gender": "female",
+            "condition": {
+                "status": "dead",
+                "stage": 4
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-12-02T17:53:10.000Z",
+            "eggCount": 136,
+            "hatchEst": "2016-12-02T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": true
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Francesca",
+            "lastName": "Dylan",
+            "date": "2016-12-01T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-12-01T17:53:10.000Z",
+            "location": "Playa El Arenal",
+            "moonPhase": "Third Quarter",
+            "tide": "low-to-high",
+            "comments": "Comment 3"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 180,
+                    "width": 115
+                },
+                "curve": {
+                    "length": 241,
+                    "width": 166
+                }
+            },
+            "species": "Dc",
+            "gender": "male",
+            "condition": {
+                "status": "alive",
+                "stage": 2
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-12-02T17:53:10.000Z",
+            "eggCount": 117,
+            "hatchEst": "2016-11-23T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": false
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Alex",
+            "lastName": "Erik",
+            "date": "2016-11-25T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-22T17:53:10.000Z",
+            "location": "Playa El Arenal",
+            "moonPhase": "Third Quarter",
+            "tide": "high-to-low",
+            "comments": "Comment 1"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 245,
+                    "width": 90
+                },
+                "curve": {
+                    "length": 346,
+                    "width": 141
+                }
+            },
+            "species": "Dc",
+            "gender": "male",
+            "condition": {
+                "status": "alive",
+                "stage": 4
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-11-26T17:53:10.000Z",
+            "eggCount": 116,
+            "hatchEst": "2016-12-01T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": false
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Erik",
+            "lastName": "Erik",
+            "date": "2016-11-25T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-12-01T17:53:10.000Z",
+            "location": "Playa El Toro",
+            "moonPhase": "Full Moon",
+            "tide": "low-to-high",
+            "comments": "Comment 6"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 300,
+                    "width": 83
+                },
+                "curve": {
+                    "length": 248,
+                    "width": 104
+                }
+            },
+            "species": "Dc",
+            "gender": "female",
+            "condition": {
+                "status": "dead",
+                "stage": 2
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-12-01T17:53:10.000Z",
+            "eggCount": 66,
+            "hatchEst": "2016-12-02T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": true
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Carlos",
+            "lastName": "Alex",
+            "date": "2016-11-25T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-26T17:53:10.000Z",
+            "location": "Playa El Toro",
+            "moonPhase": "New Moon",
+            "tide": "low",
+            "comments": "Comment 6"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 168,
+                    "width": 106
+                },
+                "curve": {
+                    "length": 159,
+                    "width": 119
+                }
+            },
+            "species": "Cm",
+            "gender": "male",
+            "condition": {
+                "status": "alive",
+                "stage": 1
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-11-27T17:53:10.000Z",
+            "eggCount": 109,
+            "hatchEst": "2016-12-02T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": false
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Alex",
+            "lastName": "Dylan",
+            "date": "2016-12-01T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-24T17:53:10.000Z",
+            "location": "Playa El Toro",
+            "moonPhase": "Full Moon",
+            "tide": "high",
+            "comments": "Comment 1"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 249,
+                    "width": 88
+                },
+                "curve": {
+                    "length": 203,
+                    "width": 136
+                }
+            },
+            "species": "Cm",
+            "gender": "male",
+            "condition": {
+                "status": "dead",
+                "stage": 2
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-11-22T17:53:10.000Z",
+            "eggCount": 57,
+            "hatchEst": "2016-11-27T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": false
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Carlos",
+            "lastName": "Carlos",
+            "date": "2016-11-25T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-23T17:53:10.000Z",
+            "location": "Playa Lagarto",
+            "moonPhase": "Third Quarter",
+            "tide": "low-to-high",
+            "comments": "Comment 5"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 338,
+                    "width": 88
+                },
+                "curve": {
+                    "length": 223,
+                    "width": 161
+                }
+            },
+            "species": "Cm",
+            "gender": "female",
+            "condition": {
+                "status": "dead",
+                "stage": 3
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-11-25T17:53:10.000Z",
+            "eggCount": 127,
+            "hatchEst": "2016-11-27T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": false
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Ben",
+            "lastName": "Alex",
+            "date": "2016-11-24T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-12-01T17:53:10.000Z",
+            "location": "Playa El Toro",
+            "moonPhase": "New Moon",
+            "tide": "high",
+            "comments": "Comment 6"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 221,
+                    "width": 94
+                },
+                "curve": {
+                    "length": 371,
+                    "width": 92
+                }
+            },
+            "species": "Dc",
+            "gender": "female",
+            "condition": {
+                "status": "alive",
+                "stage": 2
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-12-02T17:53:10.000Z",
+            "eggCount": 120,
+            "hatchEst": "2016-12-02T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": false
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Ben",
+            "lastName": "Carlos",
+            "date": "2016-12-02T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-26T17:53:10.000Z",
+            "location": "Playa El Arenal",
+            "moonPhase": "New Moon",
+            "tide": "high",
+            "comments": "Comment 2"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 335,
+                    "width": 122
+                },
+                "curve": {
+                    "length": 184,
+                    "width": 115
+                }
+            },
+            "species": "Cc",
+            "gender": "female",
+            "condition": {
+                "status": "alive",
+                "stage": 4
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-11-26T17:53:10.000Z",
+            "eggCount": 73,
+            "hatchEst": "2016-12-02T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": false
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Ben",
+            "lastName": "Francesca",
+            "date": "2016-11-25T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-22T17:53:10.000Z",
+            "location": "Playa Lagarto",
+            "moonPhase": "Third Quarter",
+            "tide": "high",
+            "comments": "Comment 3"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 223,
+                    "width": 59
+                },
+                "curve": {
+                    "length": 320,
+                    "width": 73
+                }
+            },
+            "species": "Ei",
+            "gender": "female",
+            "condition": {
+                "status": "alive",
+                "stage": 4
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-12-02T17:53:10.000Z",
+            "eggCount": 87,
+            "hatchEst": "2016-11-26T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": false
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Carlos",
+            "lastName": "Carlos",
+            "date": "2016-11-23T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-27T17:53:10.000Z",
+            "location": "Playa El Arenal",
+            "moonPhase": "Full Moon",
+            "tide": "low-to-high",
+            "comments": "Comment 4"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 328,
+                    "width": 99
+                },
+                "curve": {
+                    "length": 366,
+                    "width": 67
+                }
+            },
+            "species": "Cc",
+            "gender": "male",
+            "condition": {
+                "status": "alive",
+                "stage": 4
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-11-26T17:53:10.000Z",
+            "eggCount": 122,
+            "hatchEst": "2016-11-27T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": true
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Ben",
+            "lastName": "Erik",
+            "date": "2016-11-22T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-23T17:53:10.000Z",
+            "location": "Playa El Toro",
+            "moonPhase": "New Moon",
+            "tide": "high",
+            "comments": "Comment 2"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 268,
+                    "width": 81
+                },
+                "curve": {
+                    "length": 350,
+                    "width": 121
+                }
+            },
+            "species": "Dc",
+            "gender": "female",
+            "condition": {
+                "status": "alive",
+                "stage": 2
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-11-22T17:53:10.000Z",
+            "eggCount": 62,
+            "hatchEst": "2016-11-27T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": true
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Carlos",
+            "lastName": "Alex",
+            "date": "2016-11-22T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-26T17:53:10.000Z",
+            "location": "Playa El Toro",
+            "moonPhase": "Third Quarter",
+            "tide": "high-to-low",
+            "comments": "Comment 1"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 343,
+                    "width": 52
+                },
+                "curve": {
+                    "length": 162,
+                    "width": 90
+                }
+            },
+            "species": "Ei",
+            "gender": "male",
+            "condition": {
+                "status": "alive",
+                "stage": 4
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-12-01T17:53:10.000Z",
+            "eggCount": 110,
+            "hatchEst": "2016-11-23T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": true
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Carlos",
+            "lastName": "Ben",
+            "date": "2016-11-22T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-27T17:53:10.000Z",
+            "location": "Playa El Arenal",
+            "moonPhase": "New Moon",
+            "tide": "high-to-low",
+            "comments": "Comment 4"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 314,
+                    "width": 80
+                },
+                "curve": {
+                    "length": 315,
+                    "width": 136
+                }
+            },
+            "species": "Cm",
+            "gender": "female",
+            "condition": {
+                "status": "alive",
+                "stage": 5
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-11-25T17:53:10.000Z",
+            "eggCount": 112,
+            "hatchEst": "2016-12-01T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": true
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Ben",
+            "lastName": "Alex",
+            "date": "2016-11-26T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-24T17:53:10.000Z",
+            "location": "Playa El Toro",
+            "moonPhase": "Third Quarter",
+            "tide": "high",
+            "comments": "Comment 1"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 313,
+                    "width": 114
+                },
+                "curve": {
+                    "length": 250,
+                    "width": 105
+                }
+            },
+            "species": "Lo",
+            "gender": "female",
+            "condition": {
+                "status": "dead",
+                "stage": 1
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-12-01T17:53:10.000Z",
+            "eggCount": 129,
+            "hatchEst": "2016-12-01T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": false
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Erik",
+            "lastName": "Alex",
+            "date": "2016-11-26T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-24T17:53:10.000Z",
+            "location": "Playa El Toro",
+            "moonPhase": "First Quarter",
+            "tide": "high",
+            "comments": "Comment 2"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 239,
+                    "width": 41
+                },
+                "curve": {
+                    "length": 236,
+                    "width": 69
+                }
+            },
+            "species": "Ei",
+            "gender": "male",
+            "condition": {
+                "status": "alive",
+                "stage": 3
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-11-24T17:53:10.000Z",
+            "eggCount": 131,
+            "hatchEst": "2016-12-01T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": true
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Alex",
+            "lastName": "Dylan",
+            "date": "2016-12-01T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-27T17:53:10.000Z",
+            "location": "Playa El Toro",
+            "moonPhase": "First Quarter",
+            "tide": "low-to-high",
+            "comments": "Comment 1"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 228,
+                    "width": 68
+                },
+                "curve": {
+                    "length": 318,
+                    "width": 91
+                }
+            },
+            "species": "Cm",
+            "gender": "male",
+            "condition": {
+                "status": "alive",
+                "stage": 1
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-12-01T17:53:10.000Z",
+            "eggCount": 98,
+            "hatchEst": "2016-12-01T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": true
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Erik",
+            "lastName": "Dylan",
+            "date": "2016-11-23T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-26T17:53:10.000Z",
+            "location": "Playa El Toro",
+            "moonPhase": "Full Moon",
+            "tide": "low-to-high",
+            "comments": "Comment 4"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 262,
+                    "width": 61
+                },
+                "curve": {
+                    "length": 240,
+                    "width": 50
+                }
+            },
+            "species": "Dc",
+            "gender": "male",
+            "condition": {
+                "status": "dead",
+                "stage": 3
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-11-25T17:53:10.000Z",
+            "eggCount": 76,
+            "hatchEst": "2016-12-02T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": true
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Francesca",
+            "lastName": "Francesca",
+            "date": "2016-11-22T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-12-01T17:53:10.000Z",
+            "location": "Playa El Toro",
+            "moonPhase": "New Moon",
+            "tide": "high",
+            "comments": "Comment 2"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 294,
+                    "width": 95
+                },
+                "curve": {
+                    "length": 275,
+                    "width": 55
+                }
+            },
+            "species": "Lo",
+            "gender": "male",
+            "condition": {
+                "status": "dead",
+                "stage": 1
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-12-01T17:53:10.000Z",
+            "eggCount": 50,
+            "hatchEst": "2016-11-23T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": true
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Dylan",
+            "lastName": "Francesca",
+            "date": "2016-12-01T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-24T17:53:10.000Z",
+            "location": "Playa Lagarto",
+            "moonPhase": "Full Moon",
+            "tide": "low-to-high",
+            "comments": "Comment 2"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 306,
+                    "width": 48
+                },
+                "curve": {
+                    "length": 220,
+                    "width": 132
+                }
+            },
+            "species": "Lo",
+            "gender": "female",
+            "condition": {
+                "status": "dead",
+                "stage": 4
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-11-26T17:53:10.000Z",
+            "eggCount": 114,
+            "hatchEst": "2016-12-02T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": true
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Erik",
+            "lastName": "Ben",
+            "date": "2016-11-24T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-24T17:53:10.000Z",
+            "location": "Playa Lagarto",
+            "moonPhase": "Third Quarter",
+            "tide": "high",
+            "comments": "Comment 2"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 231,
+                    "width": 126
+                },
+                "curve": {
+                    "length": 356,
+                    "width": 95
+                }
+            },
+            "species": "Lo",
+            "gender": "female",
+            "condition": {
+                "status": "alive",
+                "stage": 1
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-12-01T17:53:10.000Z",
+            "eggCount": 59,
+            "hatchEst": "2016-12-02T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": false
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Carlos",
+            "lastName": "Alex",
+            "date": "2016-11-26T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-26T17:53:10.000Z",
+            "location": "Playa El Toro",
+            "moonPhase": "Full Moon",
+            "tide": "high",
+            "comments": "Comment 2"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 242,
+                    "width": 87
+                },
+                "curve": {
+                    "length": 275,
+                    "width": 93
+                }
+            },
+            "species": "Dc",
+            "gender": "male",
+            "condition": {
+                "status": "alive",
+                "stage": 3
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-11-27T17:53:10.000Z",
+            "eggCount": 128,
+            "hatchEst": "2016-11-26T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": true
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Erik",
+            "lastName": "Ben",
+            "date": "2016-11-25T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-26T17:53:10.000Z",
+            "location": "Playa El Toro",
+            "moonPhase": "New Moon",
+            "tide": "low",
+            "comments": "Comment 5"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 302,
+                    "width": 77
+                },
+                "curve": {
+                    "length": 214,
+                    "width": 119
+                }
+            },
+            "species": "Ei",
+            "gender": "male",
+            "condition": {
+                "status": "dead",
+                "stage": 2
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-12-01T17:53:10.000Z",
+            "eggCount": 87,
+            "hatchEst": "2016-11-26T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": false
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Carlos",
+            "lastName": "Dylan",
+            "date": "2016-11-26T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-12-01T17:53:10.000Z",
+            "location": "Playa El Arenal",
+            "moonPhase": "Full Moon",
+            "tide": "high",
+            "comments": "Comment 3"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 324,
+                    "width": 100
+                },
+                "curve": {
+                    "length": 164,
+                    "width": 135
+                }
+            },
+            "species": "Lo",
+            "gender": "female",
+            "condition": {
+                "status": "dead",
+                "stage": 3
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-11-22T17:53:10.000Z",
+            "eggCount": 109,
+            "hatchEst": "2016-11-26T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": true
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Francesca",
+            "lastName": "Francesca",
+            "date": "2016-11-24T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-27T17:53:10.000Z",
+            "location": "Playa Lagarto",
+            "moonPhase": "New Moon",
+            "tide": "low-to-high",
+            "comments": "Comment 2"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 288,
+                    "width": 75
+                },
+                "curve": {
+                    "length": 314,
+                    "width": 115
+                }
+            },
+            "species": "Cm",
+            "gender": "male",
+            "condition": {
+                "status": "dead",
+                "stage": 2
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-11-23T17:53:10.000Z",
+            "eggCount": 82,
+            "hatchEst": "2016-11-23T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": true
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Ben",
+            "lastName": "Carlos",
+            "date": "2016-11-27T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-26T17:53:10.000Z",
+            "location": "Playa El Toro",
+            "moonPhase": "First Quarter",
+            "tide": "high-to-low",
+            "comments": "Comment 6"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 329,
+                    "width": 106
+                },
+                "curve": {
+                    "length": 331,
+                    "width": 120
+                }
+            },
+            "species": "Cm",
+            "gender": "female",
+            "condition": {
+                "status": "dead",
+                "stage": 3
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-11-23T17:53:10.000Z",
+            "eggCount": 52,
+            "hatchEst": "2016-12-02T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": false
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Francesca",
+            "lastName": "Ben",
+            "date": "2016-11-25T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-12-02T17:53:10.000Z",
+            "location": "Playa El Toro",
+            "moonPhase": "New Moon",
+            "tide": "low",
+            "comments": "Comment 1"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 341,
+                    "width": 61
+                },
+                "curve": {
+                    "length": 251,
+                    "width": 89
+                }
+            },
+            "species": "Ei",
+            "gender": "female",
+            "condition": {
+                "status": "dead",
+                "stage": 2
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-11-23T17:53:10.000Z",
+            "eggCount": 130,
+            "hatchEst": "2016-11-23T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": true
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Dylan",
+            "lastName": "Carlos",
+            "date": "2016-12-02T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-25T17:53:10.000Z",
+            "location": "Playa El Toro",
+            "moonPhase": "Full Moon",
+            "tide": "low-to-high",
+            "comments": "Comment 5"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 160,
+                    "width": 88
+                },
+                "curve": {
+                    "length": 217,
+                    "width": 136
+                }
+            },
+            "species": "Cm",
+            "gender": "male",
+            "condition": {
+                "status": "alive",
+                "stage": 3
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-11-25T17:53:10.000Z",
+            "eggCount": 68,
+            "hatchEst": "2016-11-27T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": false
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Alex",
+            "lastName": "Dylan",
+            "date": "2016-11-25T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-25T17:53:10.000Z",
+            "location": "Playa El Arenal",
+            "moonPhase": "Third Quarter",
+            "tide": "low-to-high",
+            "comments": "Comment 4"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 196,
+                    "width": 123
+                },
+                "curve": {
+                    "length": 332,
+                    "width": 126
+                }
+            },
+            "species": "Cc",
+            "gender": "male",
+            "condition": {
+                "status": "alive",
+                "stage": 4
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-11-26T17:53:10.000Z",
+            "eggCount": 120,
+            "hatchEst": "2016-11-25T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": true
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Ben",
+            "lastName": "Erik",
+            "date": "2016-11-26T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-12-02T17:53:10.000Z",
+            "location": "Playa Lagarto",
+            "moonPhase": "New Moon",
+            "tide": "low",
+            "comments": "Comment 3"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 254,
+                    "width": 53
+                },
+                "curve": {
+                    "length": 297,
+                    "width": 65
+                }
+            },
+            "species": "Cm",
+            "gender": "female",
+            "condition": {
+                "status": "alive",
+                "stage": 1
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-12-02T17:53:10.000Z",
+            "eggCount": 106,
+            "hatchEst": "2016-11-23T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": true
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Erik",
+            "lastName": "Ben",
+            "date": "2016-11-27T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-25T17:53:10.000Z",
+            "location": "Playa El Toro",
+            "moonPhase": "First Quarter",
+            "tide": "high",
+            "comments": "Comment 3"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 166,
+                    "width": 92
+                },
+                "curve": {
+                    "length": 299,
+                    "width": 124
+                }
+            },
+            "species": "Ei",
+            "gender": "female",
+            "condition": {
+                "status": "alive",
+                "stage": 5
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-11-24T17:53:10.000Z",
+            "eggCount": 116,
+            "hatchEst": "2016-12-01T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": false
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Carlos",
+            "lastName": "Erik",
+            "date": "2016-11-24T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-25T17:53:10.000Z",
+            "location": "Playa Lagarto",
+            "moonPhase": "First Quarter",
+            "tide": "high-to-low",
+            "comments": "Comment 6"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 263,
+                    "width": 104
+                },
+                "curve": {
+                    "length": 219,
+                    "width": 131
+                }
+            },
+            "species": "Ei",
+            "gender": "male",
+            "condition": {
+                "status": "alive",
+                "stage": 2
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-11-26T17:53:10.000Z",
+            "eggCount": 134,
+            "hatchEst": "2016-11-26T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": false
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Alex",
+            "lastName": "Carlos",
+            "date": "2016-12-02T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-26T17:53:10.000Z",
+            "location": "Playa El Toro",
+            "moonPhase": "First Quarter",
+            "tide": "high-to-low",
+            "comments": "Comment 5"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 314,
+                    "width": 107
+                },
+                "curve": {
+                    "length": 202,
+                    "width": 106
+                }
+            },
+            "species": "Cc",
+            "gender": "female",
+            "condition": {
+                "status": "alive",
+                "stage": 5
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-12-02T17:53:10.000Z",
+            "eggCount": 98,
+            "hatchEst": "2016-11-26T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": true
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Dylan",
+            "lastName": "Carlos",
+            "date": "2016-11-26T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-24T17:53:10.000Z",
+            "location": "Playa Lagarto",
+            "moonPhase": "Full Moon",
+            "tide": "high",
+            "comments": "Comment 4"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 234,
+                    "width": 127
+                },
+                "curve": {
+                    "length": 151,
+                    "width": 59
+                }
+            },
+            "species": "Cm",
+            "gender": "female",
+            "condition": {
+                "status": "alive",
+                "stage": 4
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-11-27T17:53:10.000Z",
+            "eggCount": 133,
+            "hatchEst": "2016-11-25T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": true
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Dylan",
+            "lastName": "Alex",
+            "date": "2016-12-02T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-12-01T17:53:10.000Z",
+            "location": "Playa El Arenal",
+            "moonPhase": "Full Moon",
+            "tide": "low",
+            "comments": "Comment 4"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 220,
+                    "width": 123
+                },
+                "curve": {
+                    "length": 174,
+                    "width": 161
+                }
+            },
+            "species": "Dc",
+            "gender": "female",
+            "condition": {
+                "status": "alive",
+                "stage": 3
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-11-22T17:53:10.000Z",
+            "eggCount": 50,
+            "hatchEst": "2016-11-22T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": false
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Erik",
+            "lastName": "Ben",
+            "date": "2016-11-24T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-22T17:53:10.000Z",
+            "location": "Playa El Arenal",
+            "moonPhase": "Third Quarter",
+            "tide": "high-to-low",
+            "comments": "Comment 4"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 218,
+                    "width": 114
+                },
+                "curve": {
+                    "length": 320,
+                    "width": 81
+                }
+            },
+            "species": "Lo",
+            "gender": "female",
+            "condition": {
+                "status": "dead",
+                "stage": 4
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-11-22T17:53:10.000Z",
+            "eggCount": 87,
+            "hatchEst": "2016-11-23T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": true
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Ben",
+            "lastName": "Carlos",
+            "date": "2016-11-24T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-26T17:53:10.000Z",
+            "location": "Playa El Toro",
+            "moonPhase": "Third Quarter",
+            "tide": "high",
+            "comments": "Comment 1"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 312,
+                    "width": 74
+                },
+                "curve": {
+                    "length": 206,
+                    "width": 154
+                }
+            },
+            "species": "Lo",
+            "gender": "male",
+            "condition": {
+                "status": "alive",
+                "stage": 1
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-11-26T17:53:10.000Z",
+            "eggCount": 63,
+            "hatchEst": "2016-12-02T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": false
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Dylan",
+            "lastName": "Alex",
+            "date": "2016-11-27T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-23T17:53:10.000Z",
+            "location": "Playa Lagarto",
+            "moonPhase": "Full Moon",
+            "tide": "low-to-high",
+            "comments": "Comment 4"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 244,
+                    "width": 112
+                },
+                "curve": {
+                    "length": 333,
+                    "width": 60
+                }
+            },
+            "species": "Ei",
+            "gender": "female",
+            "condition": {
+                "status": "alive",
+                "stage": 5
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-12-02T17:53:10.000Z",
+            "eggCount": 134,
+            "hatchEst": "2016-11-25T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": true
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Francesca",
+            "lastName": "Dylan",
+            "date": "2016-12-02T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-11-26T17:53:10.000Z",
+            "location": "Playa Lagarto",
+            "moonPhase": "New Moon",
+            "tide": "low",
+            "comments": "Comment 3"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 232,
+                    "width": 88
+                },
+                "curve": {
+                    "length": 265,
+                    "width": 141
+                }
+            },
+            "species": "Cm",
+            "gender": "male",
+            "condition": {
+                "status": "alive",
+                "stage": 2
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-12-01T17:53:10.000Z",
+            "eggCount": 129,
+            "hatchEst": "2016-12-01T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": true
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Ben",
+            "lastName": "Francesca",
+            "date": "2016-11-24T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-12-01T17:53:10.000Z",
+            "location": "Playa El Toro",
+            "moonPhase": "New Moon",
+            "tide": "low",
+            "comments": "Comment 1"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 220,
+                    "width": 41
+                },
+                "curve": {
+                    "length": 341,
+                    "width": 93
+                }
+            },
+            "species": "Cm",
+            "gender": "male",
+            "condition": {
+                "status": "alive",
+                "stage": 2
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-11-23T17:53:10.000Z",
+            "eggCount": 56,
+            "hatchEst": "2016-11-25T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": false
+        }
+    },
+    {
+        "shift": {
+            "firstName": "Carlos",
+            "lastName": "Alex",
+            "date": "2016-11-22T17:53:10.000Z"
+        },
+        "observation": {
+            "date": "2016-12-02T17:53:10.000Z",
+            "location": "Playa El Arenal",
+            "moonPhase": "Full Moon",
+            "tide": "low-to-high",
+            "comments": "Comment 6"
+        },
+        "turtle": {
+            "hasData": true,
+            "dimensions": {
+                "plain": {
+                    "length": 339,
+                    "width": 57
+                },
+                "curve": {
+                    "length": 312,
+                    "width": 162
+                }
+            },
+            "species": "Lo",
+            "gender": "female",
+            "condition": {
+                "status": "alive",
+                "stage": 2
+            },
+            "markings": {
+                "rightSide": "N/A",
+                "leftSide": "scratched"
+            }
+        },
+        "nest": {
+            "hasData": true,
+            "layTime": "2016-11-24T17:53:10.000Z",
+            "eggCount": 133,
+            "hatchEst": "2016-12-01T17:53:10.000Z",
+            "rehomed": "no",
+            "salvageable": true
+        }
+    }
+]
