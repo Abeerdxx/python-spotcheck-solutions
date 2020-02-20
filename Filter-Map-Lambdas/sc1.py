@@ -4,5 +4,5 @@ numbers = [152, 57, 54, 243, 235, 216, 263, 254, 66, 149, 74, 277, 169, 71, 180,
 def is_less_than_42(x):
     return x < 42
 
-good_numbers = filter(is_less_than_42, numbers)
+good_numbers = list(filter(is_less_than_42, numbers))
 print(good_numbers)
