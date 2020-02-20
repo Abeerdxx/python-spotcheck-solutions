@@ -6,4 +6,4 @@ menu = [
 ]
 
 #            --------function--------  -list-
-print(filter(lambda m: m["vegetarian"], menu))
+print(list(filter(lambda m: m["vegetarian"], menu)))
