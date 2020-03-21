@@ -5,5 +5,5 @@ menu = [
     {"name": "Beef eggroll", "vegetarian": False},
 ]
 
-#            --------function--------  -list-
+#                 --------function--------  -list-
 print(list(filter(lambda m: m["vegetarian"], menu)))
