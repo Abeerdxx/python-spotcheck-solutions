@@ -198,7 +198,7 @@
         "spawn_chance": 0.0031,
         "avg_spawns": 0.31,
         "spawn_time": "13:34",
-        "multipliers": null,
+        "multipliers": None,
         "weaknesses": [
             "Water",
             "Electric",
