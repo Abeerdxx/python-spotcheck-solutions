@@ -9,4 +9,4 @@ calc_power_of_4 = get_power_of(4)
 print(calc_power_of_2(5))    # 25
 print(calc_power_of_2(7))    # 49
 print(calc_power_of_4(2))    # 16
-print(calc_power_of_4(3))    # 8
+print(calc_power_of_4(3))    # 81
